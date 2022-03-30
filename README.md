@@ -1,7 +1,8 @@
 # Assessment
-Go to Eclipse 
-Click on Assessment project 
-Run as Testng
-Click proceed 
-The test cases applied as requirments
-APP.Java include code lines
+Go to Eclipse <br/>
+Click on Assessment project <br/>
+Run as Testng<br/>
+Click proceed <br/>
+The test cases applied as requirments<br/>
+APP.Java include code lines<br/>
+And run the file
